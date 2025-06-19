@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-.container {
+.grid-container {
   width: 500px;
   display: flex;
   flex-wrap: wrap;
